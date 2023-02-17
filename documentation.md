@@ -6,4 +6,4 @@ From Feb 13-17, 2023
 -----
 ## Topology ##
 
-![image of network topology diagram] (https://github.com/Spcwill358/small-business-network/smb-network.drawio)
+![image of network topology diagram] (https://github.com/Spcwill358/small-business-network/blob/main/smb-network.drawio)
