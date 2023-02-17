@@ -6,4 +6,4 @@ From Feb 13-17, 2023
 -----
 ## Topology ##
 
-
+![image of network topology diagram] ()
